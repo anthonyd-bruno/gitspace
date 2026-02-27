@@ -1,0 +1,20 @@
+opencollection: 1.0.0
+info:
+  name: "gitspace"
+  type: workspace
+
+collections:
+  - name: "gitspace-coll"
+    path: "collections/gitspace-coll"
+  - name: "gitspace-gitcoll-1"
+    path: "collections/gitspace-gitcoll-1"
+  - name: "gitspace-gitcoll-2"
+    path: "collections/gitspace-gitcoll-2"
+  - name: "gitspace-removedcoll-1"
+    path: "collections/gitspace-removedcoll-1"
+  - name: "gitspace-removedcoll-2"
+    path: "collections/gitspace-removedcoll-2"
+
+specs:
+
+docs: ''
