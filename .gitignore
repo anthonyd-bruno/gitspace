@@ -7,3 +7,7 @@ node_modules
 # OS files
 .DS_Store
 Thumbs.db
+
+# Git collections (tracked in their own repos)
+collections/gitspace-gitcoll-1/
+collections/gitspace-gitcoll-2/

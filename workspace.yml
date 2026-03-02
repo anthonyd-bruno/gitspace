@@ -14,6 +14,8 @@ collections:
     path: "collections/gitspace-removedcoll-1"
   - name: "gitspace-removedcoll-2"
     path: "collections/gitspace-removedcoll-2"
+  - name: "gitspace-addedcoll-1"
+    path: "collections/gitspace-addedcoll-1"
 
 specs:
 
