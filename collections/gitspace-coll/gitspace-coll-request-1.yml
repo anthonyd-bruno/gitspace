@@ -5,7 +5,11 @@ info:
 
 http:
   method: GET
-  url: ""
+  url: ?elephant=tiger
+  params:
+    - name: elephant
+      value: tiger
+      type: query
   auth: inherit
 
 settings:
